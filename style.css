@@ -1,0 +1,60 @@
+ 
+h1 {
+    color: black;
+    font-size: 29pt;
+    font-family:Arial;
+    
+}
+
+    
+body {
+    background-color: cornsilk;
+    /* background-image: url("systemy-informatyczne.jpg"); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: 110%;
+    padding: 15px;
+    font-family: Dela Gothic One, Arial, Helvetica, sans-serif;
+    
+}
+
+
+#wszystko
+{
+    
+    background:rgba(255, 255, 255,0.9);
+    max-width:900px;
+    padding-bottom: 20px;
+    margin:auto;
+    background-color: hsl(0, 0%, 80%);
+    width: auto;
+    padding: 20px;
+    height: 1000px;
+
+
+}
+
+#test{
+    
+    width: auto;
+    text-align: left;
+    display:flex;
+    
+    
+}
+#test2{
+    width: auto;
+    text-align: left;
+    display: flex;
+    
+    
+}
+#test3{
+    width: auto;
+    text-align: left;
+    display: flex;
+    
+    
+}
+
